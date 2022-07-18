@@ -1,2 +1,6 @@
-# notes-app-include-main
- 
+# Run the code
+
+```
+npm install
+npm start
+```
